@@ -1,0 +1,9 @@
+India,Thailand
+Thailand,Malaysia
+Malaysia,India
+Thailand,Singapore
+Singapore,Maldives
+Maldives,Dubai
+Dubai,Singapore
+Dubai,Qatar
+Qatar,Mauritius
